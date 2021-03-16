@@ -5,6 +5,7 @@ body {
   align-items: center;
   min-height: 100vh;
   text-align: center;
+  background-color: rgb(141, 141, 236);
 }
 
 h1 {
@@ -26,4 +27,8 @@ select {
 .equals {
   font-weight: bold;
   font-size: 2rem;
+}
+
+#root {
+  margin-top: -150px;
 }
